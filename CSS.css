@@ -1,0 +1,21 @@
+body {
+  background-color: rgb(31, 31, 31);
+}
+
+h1 {
+  color: rgb(200, 200, 200);
+  margin-left: 600px;
+  margin-right: 600px;
+}
+
+h2 {
+    color: rgb(200, 200, 200);
+    margin-left: 500px;
+    margin-right: 500px;
+  }
+
+  h3 {
+    color: rgb(200, 200, 200);
+    margin-left: 500px;
+    margin-right: 500px;
+  }
